@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm a creator with skills such as design and development, as well as music. I am essentially a content creator building my rendition of the digital world slowly and deliberately. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All image content is created in a similar manner, from ideation and planning, all the way to finalizing the content with artistic touches and putting out on digital platforms
+I'm a creator with skills such as design and development, as well as music. I am essentially a creator building my rendition of the digital world slowly and deliberately. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All image content is created in a similar manner, from ideation and planning, all the way to finalizing the content with artistic touches and putting out on digital platforms
 
 
 <p align="left">
